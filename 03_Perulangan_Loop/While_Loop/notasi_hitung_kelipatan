@@ -1,0 +1,14 @@
+kelipatan 6 dari 100 sampai 150
+
+integer => bil1, bill_max, kelipatan
+
+bil1 = 100
+bill_max = 150
+kelipatan = 6
+
+while(bil1 <= bill_max)
+{
+    output <- bil1 <- ","
+    kelipatan = bil1 + kelipatan
+    bil1 = bil1 + kelipatan
+}

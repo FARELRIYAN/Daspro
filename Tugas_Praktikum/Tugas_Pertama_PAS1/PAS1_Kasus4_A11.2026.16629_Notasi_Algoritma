@@ -1,0 +1,35 @@
+NOTASI ALGORITMA
+Menampilkan nilai terbesar, terkecil, jumlah rata rata
+
+====== VARIABLE =========
+a1=int
+a2=int
+a3=int
+a4=int
+a5=int
+
+hasil_array=int
+hasil_besar=int
+hasil_kecil=int
+jumlah=int
+rata_rata=int
+
+========= INPUT ===========
+a1, a2, a3, a4, a5
+
+======== RUMUS ===========
+hasil_besar = a1;
+jika (a2 > hasil_besar) hasil_besar = a2;
+jika (a3 > hasil_besar) hasil_besar = a3;
+jika (a4 > hasil_besar) hasil_besar = a4;
+jika (a5 > hasil_besar) hasil_besar = a5;
+
+hasil_kecil = a1;
+jika (a2 > hasil_kecil) hasil_kecil = a2;
+jika (a3 > hasil_kecil) hasil_kecil = a3;
+jika (a4 > hasil_kecil) hasil_kecil = a4;
+jika (a5 > hasil_kecil) hasil_kecil = a5;
+
+jumlah = a1 + a2 + a3 +a4 + a5;
+
+rata_rata = jumlah / 5;

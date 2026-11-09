@@ -1,0 +1,35 @@
+1. Aritmatika (Dasar Kalkulasi): Logika hitung-hitungan mentah (tambah, kurang, kali, bagi).
+
+Studi kasus: Menghitung total tagihan pelanggan, menambah biaya admin, atau mengkalkulasi sisa kembalian top-up.
+
+2. ADT / Abstract Data Type (Cetak Biru Identitas): Membungkus beberapa tipe data berbeda menjadi satu entitas utuh.
+
+Studi kasus: Membuat kerangka profil "Nasabah" yang di dalamnya otomatis memuat komponen Nama (Teks), Nomor WA (Angka), dan Total Utang (Angka).
+
+3. Kondisi / If-Else (Sistem Gerbang/Filter): Logika pengambilan keputusan dan validasi aturan.
+
+Studi kasus: Jika klien membayar tepat waktu, statusnya aman. Jika terlambat, bekukan akunnya atau tambahkan denda.
+
+4. Loop (Otomatisasi Berulang): Menyuruh mesin mengeksekusi tugas yang sama berkali-kali sampai batas tertentu.
+
+Studi kasus: Menampilkan daftar 20 tagihan ke layar secara berurutan, atau meminta password login terus-menerus sampai input-nya benar.
+
+5. Array (Gudang Penyimpanan Seragam): Variabel berbentuk deretan laci untuk menyimpan banyak data yang jenisnya sama.
+
+Studi kasus: Menyimpan 50 kode unik voucher WiFi Micro-ISP harian dalam satu baris memori.
+
+6. Sort (Manajemen Prioritas): Menyusun data acak menjadi berurutan (naik atau turun).
+
+Studi kasus: Mengurutkan daftar pelanggan dari yang utangnya paling besar hingga yang paling kecil agar mudah ditagih.
+
+7. Search (Pelacakan Data): Algoritma intelijen untuk menemukan satu data spesifik di dalam tumpukan Array.
+
+Studi kasus: Melacak apakah nama "Daniyal" ada di dalam daftar 500 riwayat transaksi bulan ini.
+
+8. Function / Fungsi (Pabrik Penghasil Nilai): Blok kode khusus yang menerima bahan mentah, memprosesnya, lalu mengembalikan hasil akhir (return) untuk digunakan oleh sistem lain.
+
+Studi kasus: Mesin HitungTotal(harga). Kamu memasukkan angka pokok, mesin ini memproses penambahan admin, lalu melempar balik angka total finalnya ke sistem pembayaran.
+
+9. Prosedur (Mesin Eksekusi Perintah): Mirip fungsi, tetapi tidak mengembalikan nilai (void). Dia hanya menerima perintah kerja, mengeksekusinya di layar, lalu selesai.
+
+Studi kasus: Mesin CetakResi(). Dia hanya bertugas menampilkan teks struk ke layar monitor tanpa memberikan perhitungan matematis apa pun kembali ke sistem.

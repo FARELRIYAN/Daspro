@@ -1,0 +1,18 @@
+NOTASI ALGORITMA
+Program menghasilkan deret angka dimulai dari A dan diakhiri oleh B
+
+==========VARIABLE============
+i_a = integer
+i_b = integer
+
+==========INPUT============
+i_a
+i_b
+
+========= RUMUS =============
+JIKA i_a > i_b MAKA
+    i_b = i_b * 2
+
+======== OUTPUT ========
+UNTUK MENURUN DARI i_b TURUN HINGGA i_a LAKUKAN
+    MENURUN

@@ -1,0 +1,23 @@
+Mencari orang apakah masuk kriteria masuk beasiswa apa tidak
+
+float = ipk, kehadiran
+integer = g_ortu //Gaji ortu
+varchar = nilai_e y/t
+string = hasil
+ 
+bool lolos;
+
+// Proses
+input ipk
+input g_ortu
+input nilai_e
+input kehadiran
+
+//rumus
+lolos = (ipk >= 3.0 dan g_ortu < 4000000 dan nilai e == 't' dan kehadiran >= 90)
+
+if (lolos) {
+    hasil "lolos";
+} else {
+    hasil "tidak"
+}

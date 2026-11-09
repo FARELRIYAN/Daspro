@@ -1,0 +1,8 @@
+Hasil Analisis
+
+Setelah *q = 100; dijalankan, nilai i, *p dan *q semuanya akan menjadi 100. Begitu juga yang
+disimpan di dalam p dan q adalah alamat yang sama persis sama.
+
+Hal ini arena variable pointer p dan variable pointer q sama sama menunjuk pada alamat yang sama variable i
+(p = &i dan q =&i). Apapun yang dilakukan melalui variable i secara langsung ataupun pointer
+*p dan *q akan mengubah alamat yang sama.

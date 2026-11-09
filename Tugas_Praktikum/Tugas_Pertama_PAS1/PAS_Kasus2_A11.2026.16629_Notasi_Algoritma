@@ -1,0 +1,31 @@
+NOTASI ALGORITMA
+PROGRAM MENGHITUNG UPAH LEMBUR KARYAWAN
+
+==========VARIABLE============
+jam_kerja = float
+upah = float
+upah_reguler = float
+
+overpay = float
+jam_lembur_kerja = float
+total_upah = float
+
+==========INPUT============
+jam_kerja
+upah
+jam_lembur_kerja
+
+==========RUMUS============
+upah_reguler = jam_kerja * upah
+
+JIKA jam_lembur_kerja >= 30 MAKA
+    overpay = jam_lembur_kerja * upah * 0.40
+SEBALIKNYA
+    overpay = jam_lembur_kerja * upah * 0.20
+
+total_upah = upah_reguler + overpay
+
+==========OUTPUT============
+upah_reguler
+overpay
+total_upah

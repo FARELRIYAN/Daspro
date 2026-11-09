@@ -1,0 +1,79 @@
+Notasi Algoritma
+
+========= SOAL  1 ==========
+VARIABLE DATA
+s1_a=double
+s1_y=double
+
+PROSES
+memasukan input s1_a
+
+RUMUS
+s1_y = (s1_a * s1_a * s1_a) + 7
+
+OUTPUT
+s1_y
+
+
+======== SOAL 2 ===========
+VARIABLE DATA
+S2_a=double
+s2_b=double
+s2_c=double
+s2_x=double
+s2_y=double
+
+PROSES
+memasukan input s2_a, s2_b, s2_c, s2_x
+
+RUMUS
+s2_y = (s2_a * s2_x * s2_x) + (s2_b * s2_x) + s2_c
+
+OUTPUT
+s2_y
+
+
+======= SOAL 3 ============
+VARIABLE DATA
+s3_b1=double
+s3_b2=double
+s3_b3=double
+s3_b4=double
+s3_b5=double
+s3_jumlah=double
+s3_rata_rata=double
+
+PROSES
+memasukan input s3_b1, s3_b2, s3_b4, s3_b5
+
+RUMUS
+s3_jumlah = s3_b1 + s3_b2 + s3_b4 + s3_b5
+s3_rata_rata = s3_jumlah / 5
+
+OUTPUT
+s3_jumlah
+s3_rata_rata
+
+
+======== SOAL 4 ============
+VARIABLE DATA
+s4_c=double
+s4_h_f=double
+s4_h_k=double
+s4_h_r=double
+
+PROSES
+memasukan input s4_c
+
+RUMUS
+Fahrenheit
+s4_h_f = (9.0 / 5.0) * s4_c + 32;
+Kelvin
+s4_h_k = s4_c + 273;
+Reamur
+s4_h_r = (4.0 / 5.0) * s4_c;
+
+OUTPUT
+s4_h_f
+s4_h_k
+s4_h_r

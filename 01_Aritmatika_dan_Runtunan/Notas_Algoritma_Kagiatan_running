@@ -1,0 +1,140 @@
+NOTASI ALGORITMA MENGHITUNG DURASI DAN RATA RATA LAMA LARI
+
+=== HARI SENIN ===
+hari1=string
+tanggal1=int
+Bulan1=string
+tahun1=int
+wbj1=int
+wbm1=int
+wbd1=int
+wfj1=int
+wfm1=int
+wfd1=int
+jarak1=double
+catatan1=string
+
+==== ALGORITMA PENGHITUNGAN WAKTU UNTUK KONVERT DETIK HARI SENIN====
+detik1_senin=int
+detik2_senin=int
+durasi_senin=int
+
+==== MENAMPILKAN HASIL DATA UNTUK OUTPUT ======
+hasil_jam_senin=int
+hasil_menit_senin=int
+hasil_detik_senin=int
+
+
+
+============= HARI SELASA ==========================
+hari2=string
+tanggal2=int
+Bulan2=string
+tahun2=int
+wbj2=int
+wbm2=int
+wbd2=int
+wfj2=int
+wfm2=int
+wfd2=int
+jarak2=double
+catatan2=string
+
+==== ALGORITMA PENGHITUNGAN WAKTU UNTUK KONVERT DETIK HARI SELASA====
+detik1_selasa=int
+detik2_selasa=int
+durasi_selasa=int
+
+==== MENAMPILKAN HASIL DATA UNTUK OUTPUT ======
+hasil_jam_selasa=int
+hasil_menit_selasa=int
+hasil_detik_selasa=int
+
+
+
+============= HARI RABU ==========================
+hari3=string
+tanggal3=int
+Bulan3=string
+tahun3=int
+wbj3=int
+wbm3=int
+wbd3=int
+wfj3=int
+wfm3=int
+wfd3=int
+jarak3=double
+catatan3=string
+
+==== ALGORITMA PENGHITUNGAN WAKTU UNTUK KONVERT DETIK HARI RABU====
+detik1_rabu=int
+detik2_rabu=int
+durasi_rabu=int
+
+==== MENAMPILKAN HASIL DATA UNTUK OUTPUT ======
+hasil_jam_rabu=int
+hasil_menit_rabu=int
+hasil_detik_rabu=int
+
+
+
+============= HARI KAMIS ==========================
+hari3=string
+tanggal3=int
+Bulan3=string
+tahun3=int
+wbj3=int
+wbm3=int
+wbd3=int
+wfj3=int
+wfm3=int
+wfd3=int
+jarak3=double
+catatan3=string
+
+==== ALGORITMA PENGHITUNGAN WAKTU UNTUK KONVERT DETIK HARI KAMIS====
+detik1_kamis=int
+detik2_kamis=int
+durasi_kamis=int
+
+==== MENAMPILKAN HASIL DATA UNTUK OUTPUT ======
+hasil_jam_kamis=int
+hasil_menit_kamis=int
+hasil_detik_kamis=int
+
+
+
+
+============= HARI JUMAT ==========================
+hari4=string
+tanggal4=int
+Bulan4=string
+tahun4=int
+wbj4=int
+wbm4=int
+wbd4=int
+wfj4=int
+wfm4=int
+wfd4=int
+jarak4=double
+catatan4=string
+
+==== ALGORITMA PENGHITUNGAN WAKTU UNTUK KONVERT DETIK HARI JUMAT====
+detik1_jumat=int
+detik2_jumat=int
+durasi_jumat=int
+
+==== MENAMPILKAN HASIL DATA UNTUK OUTPUT ======
+hasil_jam_jumat=int
+hasil_menit_jumat=int
+hasil_detik_jumat=int
+
+
+===== ALGORITMA UNTUK MENCARI RATA RATA LAMA LARI =======
+durasi_hasil_detik_rata_rata=int
+durasi_jam_rata_rata=int
+durasi_menit_rata_rata=int
+durasi_detik_rata_rata=int
+
+//TAMBAHAN JARAK
+jarak = float
